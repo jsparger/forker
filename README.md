@@ -1,5 +1,16 @@
 # forker
 
+### to install:
+
+```
+git clone https://github.com/jsparger/forker.git
+cd forker
+git checkout absolute-minimum
+virtualenv venv
+source venv/bin/activate
+pip install -r requirements.txt
+```
+
 ### to run:
 
 ```
